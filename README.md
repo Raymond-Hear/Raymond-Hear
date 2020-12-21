@@ -1,5 +1,5 @@
 ### Hi there 👋I'm RaymondZhang from China.
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raymond-Hear)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raymond-Hear)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 <!--
 **Raymond-Hear/Raymond-Hear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
