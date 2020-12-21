@@ -6,7 +6,6 @@
 - 💻 C++ / Java.
 - ✍️ [Blogger](https://haysc.tech)
 - 🏃 Dancing / Cycling
-<h6>* </h6>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raymond-Hear&show_icons=true&theme=onedark)
