@@ -1,10 +1,10 @@
-### Hey,I'm Raymond Zhang from China.👋
+### Hey,I'm Raymond Zhang.👋
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/Raymond-Hear)
 
 - 🍻 Junior at 🇨🇳 [BITZH](http://www.bitzh.edu.cn/), _BEc in Automation_
 - 💻 C++ / Java.
-- 🏃 Dancing / Cycling
+- 🏃 Running / Cycling.
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raymond-Hear&show_icons=true&theme=onedark)
