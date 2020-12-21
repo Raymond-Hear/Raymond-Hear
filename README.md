@@ -4,7 +4,6 @@
 
 - 🍻 Junior at 🇨🇳 [BITZH](http://www.bitzh.edu.cn/), _BEc in Automation_
 - 💻 C++ / Java.
-- ✍️ [Blogger](https://haysc.tech)
 - 🏃 Dancing / Cycling
 
 
